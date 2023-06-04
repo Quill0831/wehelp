@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    background-color: rgb(122, 180, 42);
+}
+body{
+    background-image: url("./blue_ocean.webp");
+}
+
+
+hr{
+    border: 1px solid rgb(0, 0, 0);
+}
+h2{
+    font-size: 25px;
+    /* margin: 0px 20px 20px 10px; */
+}
+
+
+
+div{
+    margin: 20px 300px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:rgb(194, 252, 235);
+    font-size: 25px;
+}
+
